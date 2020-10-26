@@ -1,0 +1,8 @@
+version: '3'
+services:
+  datapipeline:
+    build: .
+    volumes:
+      - ./data:/datapipeline/data/
+      - ./conf:/datapipeline/conf/
+      

@@ -1,0 +1,6 @@
+*.swp
+.vscode/
+.DS_Store/
+*.pyc
+__pycache__/
+# data/
