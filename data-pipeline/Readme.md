@@ -10,7 +10,7 @@ Remarque : ces 2 étapes peuvent facilement être utilisées au sein d'un DAG Ai
 
 ## Exécution
 ### En local dans un environnement conda ou virtualenv
-* Créer un nouvel environnement
+* Créer un nouvel environnement (python3)
 * Installer les dépendances : `pip install requirements.txt` ou `conda install --file requirements.txt`
 * Se placer dans le répertoire src et lancer le main.py : `python main.py`
 * Le fichier de résultats json est généré dans le répertoire data/processed/
